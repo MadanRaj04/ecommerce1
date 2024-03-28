@@ -8,7 +8,7 @@ after cloning, run this command in the root folder
 ```bash
 npm install
 ```
-navigate to "frontend" folder, run these commands 
+navigate to "frontend" foalder, run these commands 
 ```bash
 npm install
 npm run build
